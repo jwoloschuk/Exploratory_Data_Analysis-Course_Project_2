@@ -74,3 +74,4 @@ print(g_plot)
 
 dev.off()
 
+# Emissions from coal combustion-related sources have decreased from 1999-2008

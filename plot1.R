@@ -56,6 +56,6 @@ plot(Total_by_year$year,Total_by_year$Emissions, pch = 19, col = Total_by_year$y
 
 dev.off()
 
-#PM2.5 emissions have decreased in the United States from 1999 to 2008
+# PM2.5 emissions have decreased in the United States from 1999 to 2008
 
 

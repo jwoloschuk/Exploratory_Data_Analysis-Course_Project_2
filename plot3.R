@@ -63,5 +63,5 @@ print(g_plot)
 
 dev.off()
 
-# Decreasing: Non-Road, On-Road, Nonpoint
-# Increasing: Point
+# The sources that have seen a decreases in emissions from 1999-2008 for Baltimore City are: Non-Road, On-Road, Nonpoint
+# The sources that have seen an increase in emissions from 1999-2008 for Baltimore City are: Point

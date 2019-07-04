@@ -57,3 +57,5 @@ plot(Baltimore_Total_by_year$year,Baltimore_Total_by_year$Emissions, pch = 19, c
      main = "Baltimore City Total PM2.5 Emissions by Year")
 
 dev.off()
+
+# Total PM2.5 emissions have decreased in the  Baltimore City, Maryland from 1999 to 2008

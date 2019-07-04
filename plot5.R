@@ -70,4 +70,5 @@ print(g_plot)
 
 dev.off()
 
+# Motor vehicle source emissions have decreased from 1999-2008 in Baltimore City
 
